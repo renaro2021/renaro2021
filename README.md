@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... JavaScript and Python in terms of programming languages
 - 🌱 I’m currently learning ... JavaScript
 - 💞️ I’m looking to collaborate on ... nothing yet
-- 📫 How to reach me ... ask2021076@proton.me
+- 📫 How to reach me ... reinaro076@gmail.com
 
 <!---
 renaro2021/renaro2021 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
